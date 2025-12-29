@@ -1,16 +1,37 @@
-## Hi there 👋
+# Marta Kościelna  
+**Product Owner / Product Manager**  
+EU • International • Remote-friendly
 
-<!--
-**koscielnamarta/koscielnamarta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build digital products with clarity, structure, and measurable impact.  
+This GitHub is my **portfolio + playground** — a place where product thinking meets real artifacts, experiments, and automation.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What you’ll find here
+- 📘 Product artifacts (PRDs, discovery notes, user stories)
+- 🧩 Case studies (end-to-end product thinking)
+- 🧰 PM templates & toolkits
+- ⚙️ Automation experiments (learning in public)
+
+---
+
+## 🧭 Selected work
+### 🥾 Thru-Hiking App (PoC)
+A progress-tracking web app for long-distance hikers.  
+Focus: MVP scoping, data modeling, mapping progress, and product metrics.
+
+→ See: `pm-playground / mini-products / thru-hiking-app`
+
+---
+
+## 🧠 How I work
+- Discovery-first, outcome-oriented
+- Clear communication with engineering & stakeholders
+- Pragmatic delivery over theoretical perfection
+- Systems thinking, not feature collecting
+
+---
+
+## 📬 Contact
+- LinkedIn: https://www.linkedin.com/in/koscielna-marta/
+- GitHub: you’re already here 🙂
